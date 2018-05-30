@@ -1,0 +1,9 @@
+C:\vn\linksSoftCapBloq\linksSoftCapBloq\linksSoftCapBloq\bin\Debug\linksSoftCapBloq.exe
+C:\vn\linksSoftCapBloq\linksSoftCapBloq\linksSoftCapBloq\bin\Debug\linksSoftCapBloq.pdb
+C:\vn\linksSoftCapBloq\linksSoftCapBloq\linksSoftCapBloq\obj\Debug\linksSoftCapBloq.csprojAssemblyReference.cache
+C:\vn\linksSoftCapBloq\linksSoftCapBloq\linksSoftCapBloq\obj\Debug\linksSoftCapBloq.Properties.Resources.resources
+C:\vn\linksSoftCapBloq\linksSoftCapBloq\linksSoftCapBloq\obj\Debug\linksSoftCapBloq.csproj.GenerateResource.cache
+C:\vn\linksSoftCapBloq\linksSoftCapBloq\linksSoftCapBloq\obj\Debug\linksSoftCapBloq.csproj.CoreCompileInputs.cache
+C:\vn\linksSoftCapBloq\linksSoftCapBloq\linksSoftCapBloq\obj\Debug\linksSoftCapBloq.exe
+C:\vn\linksSoftCapBloq\linksSoftCapBloq\linksSoftCapBloq\obj\Debug\linksSoftCapBloq.pdb
+C:\vn\linksSoftCapBloq\linksSoftCapBloq\linksSoftCapBloq\obj\Debug\linksSoftCapBloq.Indicador.resources
